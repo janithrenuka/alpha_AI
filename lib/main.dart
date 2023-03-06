@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Smart Ride',
+      title: 'Alpha AI',
       theme: ThemeData(
         primaryColor: kPrimaryColor,
         scaffoldBackgroundColor: KScaffoldColor,
